@@ -183,5 +183,6 @@ def update_dashboard(selected_sex, selected_city):
     return indicators, fig1, fig2, fig3
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0", port=10000)
+
 
