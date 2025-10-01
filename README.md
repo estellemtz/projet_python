@@ -1,4 +1,4 @@
-# 📊 Dashboard : Analyse des ventes d’un supermarché
+#  Dashboard : Analyse des ventes d’un supermarché
 
 Ce projet est une application **[Dash](https://dash.plotly.com/)** permettant d’analyser les ventes d’un supermarché à partir du dataset `supermarket_sales.csv`.  
 L’application est déployée en ligne grâce à **Render**.
